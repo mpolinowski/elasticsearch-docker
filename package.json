@@ -1,0 +1,24 @@
+{
+  "name": "elasticsearch-docker",
+  "version": "1.0.0",
+  "description": "Elasticsearch in a Docker Container",
+  "scripts": {
+    "start": "node --inspect=0.0.0.0:9229 server/app.js"
+  },
+  "author": "mpolinowski@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^15.3.0",
+    "joi": "^14.3.1",
+    "koa": "^2.6.2",
+    "koa-joi-validate": "^0.5.1",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
