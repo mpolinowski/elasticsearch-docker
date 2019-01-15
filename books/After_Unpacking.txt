@@ -1,0 +1,38 @@
+Title: After Unpacking
+
+Description: These videos contain an overview over the basic IP camera features like: LAN or WiFi connectivity and remote access via DDNS and P2P.
+
+Abstract: After Unpacking your Camera
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/After_Unpacking/
+
+Subtitle1: After Unpacking • 
+
+Sublink2: /Quick_Installation/
+
+Subtitle2: Quick Installation
+
+Sublink3: 
+
+Subtitle3: 
+
+Sublink4: 
+
+Subtitle4: 
+
+Tags: Introduction, Quickinstallation
+
+Image: /images/Search/QI_SearchThumb_AfterUnpackingYourIPCamera.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-After_Unpacking_white.png
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PETER PAN ***
+
+
+These videos contain an overview over the basic IP camera features like: LAN or WiFi connectivity and remote access via DDNS and P2P.
+
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE WONDERFUL WIZARD OF OZ ***

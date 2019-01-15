@@ -58,7 +58,7 @@ typings/
 .env
 
 .DS_STORE
-books/
+_bak/
 books.zip
 esdata/
 .vscode

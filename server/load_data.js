@@ -2,17 +2,19 @@ const fs = require('fs')
 const path = require('path')
 const esConnection = require('./connection')
 
-/** Read an individual book txt file, and extract the title, author, and paragraphs */
+/** Read an individual book txt file, and extract the title, tag, and paragraphs */
 function parseBookFile (filePath) {
   // Read text file
   const book = fs.readFileSync(filePath, 'utf8')
 
-  // Find book title and author
+  // Find book title, description and tag
   const title = book.match(/^Title:\s(.+)$/m)[1]
-  const authorMatch = book.match(/^Author:\s(.+)$/m)
-  const author = (!authorMatch || authorMatch[1].trim() === '') ? 'Unknown Author' : authorMatch[1]
+  const tagMatch = book.match(/^Tag:\s(.+)$/m)
+  const tag = (!tagMatch || tagMatch[1].trim() === '') ? 'no tags' : tagMatch[1]
+  const descriptionMatch = book.match(/^Description:\s(.+)$/m)
+  const description = (!descriptionMatch || descriptionMatch[1].trim() === '') ? 'no tags' : descriptionMatch[1]
 
-  console.log(`Reading Book - ${title} By ${author}`)
+  console.log(`Reading Article " ${title} " :: ${tag} :: ${description}`)
 
   // Find Guttenberg metadata header and footer
   const startOfBookMatch = book.match(/^\*{3}\s*START OF (THIS|THE) PROJECT GUTENBERG EBOOK.+\*{3}$/m)
@@ -28,11 +30,11 @@ function parseBookFile (filePath) {
     .filter((line) => (line && line !== '')) // Remove empty lines
 
   console.log(`Parsed ${paragraphs.length} Paragraphs\n`)
-  return { title, author, paragraphs }
+  return { title, tag, description, paragraphs }
 }
 
 /** Bulk index the book data in ElasticSearch */
-async function insertBookData (title, author, paragraphs) {
+async function insertBookData (title, tag, description, paragraphs) {
   let bulkOps = [] // Array to store bulk operations
 
   // Add an index operation for each section in the book
@@ -42,8 +44,9 @@ async function insertBookData (title, author, paragraphs) {
 
     // Add document
     bulkOps.push({
-      author,
+      tag,
       title,
+      description,
       location: i,
       text: paragraphs[i]
     })
@@ -76,8 +79,8 @@ async function readAndInsertBooks () {
     for (let file of files) {
       console.log(`Reading File - ${file}`)
       const filePath = path.join('./books', file)
-      const { title, author, paragraphs } = parseBookFile(filePath)
-      await insertBookData(title, author, paragraphs)
+      const { title, tag, paragraphs, description } = parseBookFile(filePath)
+      await insertBookData(title, tag, description, paragraphs)
     }
   } catch (err) {
     console.error(err)
