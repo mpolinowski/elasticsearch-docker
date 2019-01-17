@@ -1,0 +1,103 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: First Steps
+
+Description: Your already have your camera connected to your network? The following steps will help you to get access to the more advanced features of your camera.
+
+Abstract: First Steps to set up your Camera
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/First_Steps/
+
+Subtitle1: First Steps • 
+
+Sublink2: /Quick_Installation/
+
+Subtitle2: Quick Installation
+
+Sublink3: 
+
+Subtitle3: 
+
+Sublink4: 
+
+Subtitle4: 
+
+Tags: Introduction, Quickinstallation
+
+Image: /images/Search/QI_SearchThumb_FirstStepsWithYourIPCamera.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-First_Steps_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+First Steps Installing your Camera
+
+Installation IP Cameras After Unpacking First Steps
+
+
+In the following, we will give you a short introduction to the basic functions of our IP-cameras and the first steps of installation. We will discuss common problems and answer frequently asked questions.
+
+Please feel free to follow our Installation Wizard to guide you through the installation process. 
+
+INSTALLATION WIZARD
+
+Advice for Beginners:
+
+The Quick-Installation-Guide already guided you through the installation of your camera and showed you how to set up an user account. If you want to change the login data afterwards, or if you want to add an additional visitor account, click HERE.
+If you cannot find your camera with our Instar Camera Tool for Windows, macOS and LINUX, you can try using an Alternative IP Scanner or you directly connect your camera with your computer.
+
+All camera settings can be adjusted in the WebUI. We have a manual about all the functions of our 1080p Series and 720P Series WebUI. If the WebUI is not using your preferred language, you will find the manual to change the language HERE.
+Check out our Calculators for the Angle of View of your camera, the Bandwidth Requirements and SD Card Capacity.
+We recommend to always use the latest update for your camera. Information about how to Update the Camera-Software can be found here.
+
+If you want to remotely access your camera through the Internet, you can check out our DDNS Service.
+If your browser is not playing the Live Video, you can find a manual for changing the video mode HERE.
+You can configure the Motion Detection and activate the Alarm Notification.
+
+For further information on our cameras you can check out the respective online-manuals: IN-5905 HD, IN-5907 HD, IN-6001 HD, IN-6012 HD, IN-6014 HD, IN-7011 HD, IN-8015 Full HD und IN-9008 Full HD.
+
+Frequently Asked Questions:
+
+All of our HD IP Cameras have a SD-Card with a capacity of 4GB, 8GB or 16GB, depending on the camera model. here you can calculate how long it takes until the storage of the SD-Card is full. The oldest recordings on the camera will be overwritten by default (Ring Storage). Access your SD Card with our smart phone app InstarVision for Android, iPhone, iPad, Blackberry, Windows Phone and Windows 8/10.
+
+We offer a Cloud-solution to easily store recordings of your INSTAR Cameras. The INSTAR Cloud offers an easy-to-access interface and a good way to manage your recordings. If you are afraid that your camera and SD-Card could be destroyed, the INSTAR Cloud will give you the means to secure your recordings.
+
+You can use the InstarVision 2.0 Surveillance Center, a Windows PC Software made by us. With this Software it is not only possible to show the live video of all your cameras at the same time, you can also start recordings and save them on your computer.
+
+It is also possible to use the FTP (File Transfer Protocol) service to send your recordings to other devices, for example to an USB-Stick Connected To Your Router or a hard-drive in your network. If you want to make permanent recordings you can also use NAS Systems, e.g. Synology or QNAP. These have their own surveillance software and support all our camera models. Addition: You can also activate the Email-Service, to receive snapshots by email after an alarm was triggered.
+
+Camera-Access via Smartphone-App
+Use our free App InstarVision for Android, iPhone, iPad, Blackberry, Windows Phone and Windows 8/10 to access the live video of your IP Camera. Moreover, you can access your SD Card and check alarm recordings and use functions such as activating-/ deactivating the motion detection or use the camera and smart phone as an intercommunication system.
+
+External Cables of the Outdoor-Cameras
+Except for our FullHD-models, all of our cameras have a so called cable-tree, which consists of all cable-connectors for the camera. This cable tree is 80cm long and relatively thick. If you don´t want to drill a big hole through your wall, you can remove those cables from your camera and then put the "thin end" through the wall. A video manual can be found here - IN-5905 HD and IN-5907 HD.
+
+We strongly advice against cutting the cables, as you will not only lose the guarantee for your camera, you also risk damaging of your camera. A solution would be to use a weatherproof cable-box to store the cable-tree.
+
+Heater for the Outdoor-Cameras
+Whether a heater is necessary for your camera depends on the location you want to install it in. Our cameras can be used down to -5 Degree Celsius. If the temperatures get even lower, the camera might not be damaged. However, it is possible that the camera will turn off and cannot be accessed until normal operating temperatures are reached again. The installation of a heater would guarantee the permanent operation of the camera. You can find heaters for the camera models IN-7011 HD, IN-5907 HD, IN-5905 HD, IN-4010 v2, IN-4010/11, IN-2908 and IN-2904/5/7 in our shop.
+
+Zoom-Lense
+All of our HD- and FullHD-Cameras do not have optical zoom lenses, but do offer digital zoom. Due to their resolution our HD cameras still offer a better quality with their 3-times digital zoom than our VGA-cameras with their "lossless" optical zoom.
+
+Battery and/or SIM-Card
+Our cameras do not have an internal Battery. Therefore, they must constantly be connected via power adapter. Our cameras do not have a SIM-Card-Slot. If you want to use the camera at a location without internet access, you can use a mobile LTE-Router. The camera can then be connected to the router and will have access to the internet.
+
+Length of the Alarm-Videos
+The alarm video starts 3 seconds before the alarm event and ends 15 seconds after - in total the alarm video is 17-18s. If the movement continues after the recording, a new alarm event will be triggered and a new 15s video will be recorded.
+
+Time Lapse Recordings
+With all of our cameras you can create timelapse videos, for example if you want to document the progress for a construction site. Activate the photo series inside the WebUI (1080P Models / 720P MODELS) to take a snapshot in scheduled intervals, which you can afterwards combine to a timelapse video. Check our Time Lapse Guide for detailed information on how to create a time lapse video.
+
+Synology Surveillance Station and QNAP NAS
+Synology and QNAP have their own surveillance software and can use the live video of our cameras. All of our HD- and FullHD Cameras are compatible. For the implementation of our cameras into their surveillance station you can follow our Manual.
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

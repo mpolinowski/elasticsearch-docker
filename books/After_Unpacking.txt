@@ -1,3 +1,5 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
 Title: After Unpacking
 
 Description: These videos contain an overview over the basic IP camera features like: LAN or WiFi connectivity and remote access via DDNS and P2P.
@@ -29,10 +31,13 @@ Image: /images/Search/QI_SearchThumb_AfterUnpackingYourIPCamera.png
 Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-After_Unpacking_white.png
 
 
-*** START OF THIS PROJECT GUTENBERG EBOOK PETER PAN ***
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
 
 
 These videos contain an overview over the basic IP camera features like: LAN or WiFi connectivity and remote access via DDNS and P2P.
 
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE WONDERFUL WIZARD OF OZ ***
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

@@ -1,0 +1,62 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: Powerline
+
+Description: IN-LAN is an intelligent and secure technology that lets you set up a home network easily via your household power grid - without the need of complex and expensive dedicated cabling.
+
+Abstract: Network Connection over your Power Grid
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Powerline/
+
+Subtitle1: Powerline • 
+
+Sublink2: /Quick_Installation/
+
+Subtitle2: Quick Installation
+
+Sublink3: 
+
+Subtitle3: 
+
+Sublink4: 
+
+Subtitle4: 
+
+Tags: Introduction, Quickinstallation, Network, D-LAN, IN-LAN, Homeplug AV, Devolo
+
+Image: /images/Search/QI_SearchThumb_Powerline.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-How_Does_An_IP_Camera_Work_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+IN-LAN Powerline
+After Unpacking First Steps PoE Powerline
+
+
+
+Network over your Power Grid INSTAR IN-LAN 500 Powerline Adapter
+
+IN-LAN is an intelligent and secure technology that lets you set up a home network easily via your household power grid - without the need of complex and expensive dedicated cabling. IN-LAN communication now attains speeds you would expect from other LAN technologies. IN-LAN uses the household power grid to transfer data between computers equipped with suitable adapters and other network components. As a result, any power outlet can be used as a network access point. State-of-the-art technology ensures that the power and data networks do not interfere with one another.
+
+Powerline vs Power-over-Ethernet
+Powerline allows you to connect your camera to your local network over the power grid. The camera still needs to be powered by the included power supply. Power-over-Ethernet combines both the network as well as the power supply in a regular Ethernet cable. You only need a PoE Injector or PoE SWITCH to add the voltage to the Ethernet cable.
+
+What is the difference between IN-LAN 500 & IN-LAN 500p?
+The P in IN-LAN 500p stands for pass-through. Unlike the base model the 500p will block your power outlet but pass through the existing one. Both models offer the same advantages otherwise:
+
+Use existing power lines to implement a network with IN-LAN. Very simple plug&play technology. Just plug into the wall socket and you're done. Ultra-fast data transfer up to 500Mbps. Expand your network with for e.g. IP cameras without laying network cables. A very detailed instruction will make the installation very easy.
+
+Installation Warnings
+Powerline communication will fail. if both adaptors (one at your router / the other for your camera) are not connected to the same phase on your power grid. The Powerline network can suffer quality issues, if the cables, used in your power grid are old. Always directly plug in your IN-LAN adaptors into a wall socket. Don't use extensions cords.
+
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***
