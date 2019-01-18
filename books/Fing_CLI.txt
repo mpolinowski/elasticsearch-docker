@@ -1,0 +1,62 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: Fing CLI
+
+Title2: Fing CLI
+
+Description: The easiest way to search our camera inside your local network is our INSTAR Camera Tool for Windows, macOS und LINUX. But there are other Options...
+
+Abstract: Use the Fing Command Line Interface to Find your Camera
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/After_Unpacking/Fing_CLI/
+
+Subtitle1: Fing CLI • 
+
+Sublink2: /Quick_Installation/Alternative_IP_Scanner/
+
+Subtitle2: IP Scanner • 
+
+Sublink3: /Quick_Installation/
+
+Subtitle3: Quick Installation
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Introduction, Quickinstallation, Network
+
+Image: /images/Search/QI_SearchThumb_AlternativeIPScanner_FingCLI_eng.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Alternative_IP_Scanner_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+Fing CLI
+PoE Powerline Direct LAN IP Scanner
+
+
+
+Alternative IP Scanner
+How to find your IP Camera in the network with an alternative IP Scanner? The IP Camera Tool (Windows), IP Camera Tool (macOS) or IP Camera Tool (LINUX) is for sure the most comfortable way to find your IP camera inside your network. Instructions on how to set up your INSTAR IP camera with the Camera Tool can be found here.
+
+If, for some reason, the IP Camera Tool does not work on your computer, here are a few other options to discover the IP address. The camera will try to receive an IP address automatically (DHCP) during the first installation. Most routers will give you a log file of fresh DHCP requests, in which you should be able to find the camera´s IP address. You should reach the cameras login portal by typing this address into the web browser´s address bar.
+
+If you do not have access to your router or if your router does not have any log files, please refer to alternative IP scanners - an examples is:
+
+Fing CLI (Windows/MacOSX/Linux)
+The newest version of the freeware application Fing can be found on HERE for Windows/macOSX/LINUX. After installation type fing into your command console to start the software:
+
+Type fing into your command line tool to start the program. Make sure that your camera is unplugged - then scan your network. Now connect the camera to your router and re-run the scan. The camera should have received an IP address by DHCP and be listed as a network device:
+
+Let the Fing scan your network for a new active host. You can now use the camera´s IP address to access the Web User Interface with your default web browser.
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

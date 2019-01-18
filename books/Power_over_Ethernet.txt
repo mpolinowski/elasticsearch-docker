@@ -2,6 +2,8 @@
 
 Title: Power over Ethernet
 
+Title2: Power over Ethernet
+
 Description: Power over Ethernet or PoE describes systems which pass electric power along with data on twisted pair Ethernet cabling. This allows a single cable to provide both data connection and electric power to devices such as IP cameras.
 
 Abstract: Power your Camera over an Ethernet Cable
@@ -16,13 +18,13 @@ Sublink2: /Quick_Installation/
 
 Subtitle2: Quick Installation
 
-Sublink3: 
+Sublink3: none
 
-Subtitle3: 
+Subtitle3: none
 
-Sublink4: 
+Sublink4: none
 
-Subtitle4: 
+Subtitle4: none
 
 Tags: Introduction, Quickinstallation, Network
 

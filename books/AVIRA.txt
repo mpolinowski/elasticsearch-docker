@@ -1,0 +1,52 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: AVIRA Antivirus Pro
+
+Title2: AVIRA Antivirus Pro
+
+Description: All INSTAR HD cameras can display their video stream inside a modern web browser (like Firefox, Chrome or Edge) without the need for a video plugin. But there are other Options...
+
+Abstract: Access your Camera´s Live Video
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Live_Video/Troubleshooting/AVIRA/
+
+Subtitle1: AVIRA • 
+
+Sublink2: /Quick_Installation/Live_Video/
+
+Subtitle2: Live Video •
+
+Sublink3: /Quick_Installation/
+
+Subtitle3: Quick Installation
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Live Video, web user interface, QuickTime, Flash, ActiveX, Video Plugin
+
+Image: /images/Search/QI_SearchThumb_LiveVideo_Avira.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Live_Video_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+AVIRA Antivirus Pro
+
+Set an Exception rule inside your AVIRA Antivirus Software
+Avira Antivirus Pro might cause prevent you from displaying the video stream when you access our IP cameras for the first time with Internet Explorer (other browsers are not affected). The problem is caused by Avira´s real-time scanner blocking the ActiveX control used by the camera (SEWebClientPlus.ocx for the HD cameras or DVM_IPCam2.ocx for VGA cameras). Please deactivate the real-time scanner and reload the camera WebUI inside your Internet Explorer. You will be asked to install the ActiveX again - simply confirm the installation process, then reactivate your Antivirus protection. Reload the WebUI - the video should now load automatically.
+
+Open the Configuration Menu and right-click the Avira Umbrella Icon in the taskbar systray next to the system clock. Deactivate the Real-Time Scanner and choose to deactivate the real-time scanner and install the ActiveX plug in. Reactivate the scanner afterwards.
+
+The ActiveX plugin for the HD camera can be found in C:/Windows/SystemWOW64 (or System32) and is called SEWebClientPlus.ocx for the HD cameras (or DVM_IPCam2.ocx in C:\Windows\Downloaded Program Files for the VGA cameras). In case that the HD camera´s video is working but you cannot start the integrated media player - you will need an exception for the file SEPlayerPlus.exe that is also located in C:/Windows/SystemWOW64 (or System32).
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

@@ -1,0 +1,52 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: Language Selection
+
+Title2: Sprachauswahl in der IP Kamera
+
+Description: These videos contain an overview over the basic IP camera features like: LAN or WiFi connectivity and remote access via DDNS and P2P.
+
+Abstract: After Unpacking your Camera
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Language_Selection/
+
+Subtitle1: Language Selection • 
+
+Sublink2: /Quick_Installation/
+
+Subtitle2: Quick Installation
+
+Sublink3: none
+
+Subtitle3: none
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Introduction, Quickinstallation, Web User Interface, WebUI
+
+Image: /images/Search/QI_SearchThumb_LanguageSettings.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Language_Selection_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+Language Selection
+How to set the Language in the Web User Interface? The new INSTAR web interface for your IP camera detects automatically what default language your web browser is using. By default, the web interface will be loaded in the language which is used by your web browser. You can also click System / Language for 1080p cameras, or Software / Language on the left side navigation of your 720p camera, in order to select the language, you would like to use.
+
+1080p WebUI Language Selection
+Go to System / Language and choose the language you want to load the user interface in.
+
+720p WebUI Language Selection
+Go to Software / Language and choose the language you want to load the user interface in.
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

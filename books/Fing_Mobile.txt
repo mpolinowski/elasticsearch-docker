@@ -1,0 +1,79 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: Fing Mobile
+
+Title2: Wie Sie Ihrer IP Kamera mit einem alternativen IP Scanner finden
+
+Description: The easiest way to search our camera inside your local network is our INSTAR Camera Tool for Windows, macOS und LINUX. But there are other Options...
+
+Abstract: Use the Fing Mobile App to Find your Camera
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/After_Unpacking/Fing_Mobile/
+
+Subtitle1: Fing Mobile • 
+
+Sublink2: /Quick_Installation/Alternative_IP_Scanner/
+
+Subtitle2: IP Scanner • 
+
+Sublink3: /Quick_Installation/
+
+Subtitle3: Quick Installation
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Introduction, Quickinstallation, Network
+
+Image: /images/Search/QI_SearchThumb_AlternativeIPScanner_FingMobile_eng.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Alternative_IP_Scanner_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+Fing Mobile
+Alternative IP Scanner
+How to find your IP Camera in the network with an alternative IP Scanner?
+The IP Camera Tool (Windows), IP Camera Tool (macOS) or IP Camera Tool (LINUX) is for sure the most comfortable way to find your IP camera inside your network. Instructions on how to set up your INSTAR IP camera with the Camera Tool can be found here.
+
+If, for some reason, the IP Camera Tool does not work on your computer, here are a few other options to discover the IP address. The camera will try to receive an IP address automatically (DHCP) during the first installation. Most routers will give you a log file of fresh DHCP requests, in which you should be able to find the camera´s IP address. You should reach the cameras login portal by typing this address into the web browser´s address bar.
+
+If you do not have access to your router or if your router does not have any log files, please refer to alternative IP scanners - an examples is:
+
+Fing Mobile (Android/iOS)
+The newest version of the freeware Android App Fing can be found on Google Play . After installation you will see the following interface:
+
+Fing Android App
+
+Let the Fing scan your network for a new active host. Let the Fing scan the host for active services.
+
+Make sure the camera is disconnected from your network - then start a scan. Now connect the camera and re-run the scan. The camera should show up as a new network device. Press the cameras IP address to open the advanced details. If you are using more than one camera in your network we recommend, you only connect one camera at a time in order to differentiate them.
+
+Please choose Scan services to discover the cameras http port - the default http port is 80. Choose the cameras web port 80 and choose to open the address inside your default web browser.
+
+Press the http port and choose to open the camera´s Web User Interface.
+
+You will now be greeted by the camera´s login page - the default credentials are username admin and the password can be left blank (or type in instar in case of a HD camera model). Congratulations! You now entered the cameras Web User Interface. Login with the default username and password.
+
+The newest version of the freeware iOS App Fing can be found on the App Store. After installation you will see the following interface:
+
+Make sure the camera is disconnected from your network - then start a scan. Now connect the camera and re-run the scan. The camera should show up as a new network device. Press the cameras IP address to open the advanced details. If you are using more than one camera in your network we recommend, you only connect one camera at a time in order to differentiate them.
+
+Let the Fing scan your network for a new active host. Let the Fing scan the host for active services. Please choose "Scan services" to discover the cameras http port - the default http port is 80. Choose the cameras web port 80 and choose to open the address inside your default web browser.
+
+Press the http port and choose to open the camera´s Web User Interface.
+
+You will now be greeted by the camera´s login page - the default credentials are username admin and the password can be left blank (or type in instar in case of a HD camera model). Congratulations! You now entered the cameras Web User Interface.
+
+
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

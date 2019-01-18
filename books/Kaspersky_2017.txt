@@ -1,0 +1,54 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: Kaspersky Internet Security 2017
+
+Title2: Kaspersky Internet Security 2017
+
+Description: All INSTAR HD cameras can display their video stream inside a modern web browser (like Firefox, Chrome or Edge) without the need for a video plugin. But there are other Options...
+
+Abstract: Access your Camera´s Live Video
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Live_Video/Troubleshooting/Kaspersky_2017/
+
+Subtitle1: Kaspersky 2017 • 
+
+Sublink2: /Quick_Installation/Live_Video/
+
+Subtitle2: Live Video •
+
+Sublink3: /Quick_Installation/
+
+Subtitle3: Quick Installation
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Live Video, web user interface, QuickTime, Flash, ActiveX, Video Plugin
+
+Image: /images/Search/QI_SearchThumb_LiveVideo_Kaspersky17.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Live_Video_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+Kaspersky Internet Security 2017 Allow JavaScript for your Cameras WebUI
+In some cases, it can be that the virus scanner Kaspersky is blocking the user interface of your camera. In this case you will need to deactivate a function in Kaspersky so it does not block the camera any more.
+
+Step 1: Please open Kaspersky by clicking the Kaspersky symbol on the right side of the windows task bar. Another way is to open the start menu and to choose the program directly. Once opened please click on Settings.
+
+Step 2: Go to the Advanced section and click on Network.
+
+Step 3: Now uncheck the Kaspersky Script.
+
+Step 4: Confirm your settings and go back to your camera´s user interface and reload.
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

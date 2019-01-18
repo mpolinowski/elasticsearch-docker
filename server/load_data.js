@@ -9,15 +9,23 @@ function parseBookFile(filePath) {
 
   // Find book title, description and tag
   const title = book.match(/^Title:\s(.+)$/m)[1]
-  const description = book.match(/^Description:\s(.+)$/m)
-  // const description = (!descriptionMatch || descriptionMatch[1].trim() === '') ? 'no tags' : descriptionMatch[1]
-  const abstract = book.match(/^Abstract:\s(.+)$/m)
-  const sublink1 = book.match(/^Sublink1:\s(.+)$/m)[1]
+  const title2 = book.match(/^Title2:\s(.+)$/m)[1]
+  const author = book.match(/^Author:\s(.+)$/m)[1]
+  const description = book.match(/^Description:\s(.+)$/m)[1]
+  const abstract = book.match(/^Abstract:\s(.+)$/m)[1]
   const tag = book.match(/^Tags:\s(.+)$/m)[1]
-  // const tag = book.match(/^Tags:\s(.+)$/m)
-  // const tag = (!tagMatch || tagMatch[1].trim() === '') ? 'no tags' : tagMatch[1]
+  const sublink1 = book.match(/^Sublink1:\s(.+)$/m)[1]
+  const subtitle1 = book.match(/^Subtitle1:\s(.+)$/m)[1]
+  const sublink2 = book.match(/^Sublink2:\s(.+)$/m)[1]
+  const subtitle2 = book.match(/^Subtitle2:\s(.+)$/m)[1]
+  const sublink3 = book.match(/^Sublink3:\s(.+)$/m)[1]
+  const subtitle3 = book.match(/^Subtitle3:\s(.+)$/m)[1]
+  const sublink4 = book.match(/^Sublink4:\s(.+)$/m)[1]
+  const subtitle4 = book.match(/^Subtitle4:\s(.+)$/m)[1]
+  const image = book.match(/^Image:\s(.+)$/m)[1]
+  const imagesquare = book.match(/^Imagesquare:\s(.+)$/m)[1]
 
-  console.log(`Reading Article " ${title} " :: ${tag} :: ${description} :: ${sublink1}`)
+  console.log(`Article :: ${title} :: ${sublink1}`)
 
   // Find metadata header and footer
   const startOfBookMatch = book.match(/^\*{3}\s*START OF THIS ARTICLE.+\*{3}$/m)
@@ -34,10 +42,21 @@ function parseBookFile(filePath) {
   console.log(`Parsed ${paragraphs.length} Paragraphs\n`)
   return {
     title,
-    tag,
+    title2,
+    author,
     description,
     abstract,
+    tag,
     sublink1,
+    subtitle1,
+    sublink2,
+    subtitle2,
+    sublink3,
+    subtitle3,
+    sublink4,
+    subtitle4,
+    image,
+    imagesquare,
     paragraphs
   }
 }
@@ -45,10 +64,21 @@ function parseBookFile(filePath) {
 /** Bulk index the book data in ElasticSearch */
 async function insertBookData(
   title,
-  tag,
+  title2,
+  author,
   description,
   abstract,
+  tag,
   sublink1,
+  subtitle1,
+  sublink2,
+  subtitle2,
+  sublink3,
+  subtitle3,
+  sublink4,
+  subtitle4,
+  image,
+  imagesquare,
   paragraphs) {
   let bulkOps = [] // Array to store bulk operations
 
@@ -64,11 +94,22 @@ async function insertBookData(
 
     // Add document
     bulkOps.push({
-      tag,
       title,
+      title2,
+      author,
       description,
       abstract,
+      tag,
       sublink1,
+      subtitle1,
+      sublink2,
+      subtitle2,
+      sublink3,
+      subtitle3,
+      sublink4,
+      subtitle4,
+      image,
+      imagesquare,
       location: i,
       text: paragraphs[i]
     })
@@ -107,18 +148,40 @@ async function readAndInsertBooks() {
       const filePath = path.join('./books', file)
       const {
         title,
-        tag,
-        abstract,
+        title2,
+        author,
         description,
+        abstract,
+        tag,
         sublink1,
+        subtitle1,
+        sublink2,
+        subtitle2,
+        sublink3,
+        subtitle3,
+        sublink4,
+        subtitle4,
+        image,
+        imagesquare,
         paragraphs
       } = parseBookFile(filePath)
       await insertBookData(
         title,
-        tag,
+        title2,
+        author,
         description,
         abstract,
+        tag,
         sublink1,
+        subtitle1,
+        sublink2,
+        subtitle2,
+        sublink3,
+        subtitle3,
+        sublink4,
+        subtitle4,
+        image,
+        imagesquare,
         paragraphs)
     }
   } catch (err) {

@@ -1,0 +1,54 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: F-Secure Internet Security
+
+Title2: F-Secure Internet Security
+
+Description: All INSTAR HD cameras can display their video stream inside a modern web browser (like Firefox, Chrome or Edge) without the need for a video plugin. But there are other Options...
+
+Abstract: Access your Camera´s Live Video
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Live_Video/Troubleshooting/F-Secure/
+
+Subtitle1: F-Secure • 
+
+Sublink2: /Quick_Installation/Live_Video/
+
+Subtitle2: Live Video •
+
+Sublink3: /Quick_Installation/
+
+Subtitle3: Quick Installation
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Live Video, web user interface, QuickTime, Flash, ActiveX, Video Plugin
+
+Image: /images/Search/QI_SearchThumb_LiveVideo_F-Secure.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Live_Video_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+F-Secure Internet Security
+
+Set an Exception rule inside your F-Secure Antivirus Software
+In some cases, it can be that the F-Secure firewall is blocking the video stream of the camera. Actually it blocks the ActiveX and Quicktime Plugin as well as our InstarVision Surveillance Center from receiving the cameras video stream. In this case you will need to deactivate the Advanced Network Protection in F-Secure so it does not block the camera anymore.
+
+Step 1: Please open the F-Secure program window by clicking the F-Secure symbol on the right side of the windows task bar. Another way is to open the start menu and to click on the program shortcut. Once opened please click Settings on the right side of the window.
+
+Step 2: Go to the Firewall section in the Security Settings and un-check the option to not allow applications to download harmful files under the Advanced Network Protection.
+
+Step 3: Finally, please reload the web interface of your IP camera. This can be done by either clicking the refresh button next to the address bar of your web browser or you can close your web browser and re-type the IP address of your camera in the browsers address bar. Or restart the InstarVision Surveillance Center.
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

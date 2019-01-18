@@ -2,6 +2,8 @@
 
 Title: Powerline
 
+Title2: Powerline
+
 Description: IN-LAN is an intelligent and secure technology that lets you set up a home network easily via your household power grid - without the need of complex and expensive dedicated cabling.
 
 Abstract: Network Connection over your Power Grid
@@ -16,13 +18,13 @@ Sublink2: /Quick_Installation/
 
 Subtitle2: Quick Installation
 
-Sublink3: 
+Sublink3: none
 
-Subtitle3: 
+Subtitle3: none
 
-Sublink4: 
+Sublink4: none
 
-Subtitle4: 
+Subtitle4: none
 
 Tags: Introduction, Quickinstallation, Network, D-LAN, IN-LAN, Homeplug AV, Devolo
 

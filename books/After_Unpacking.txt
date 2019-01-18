@@ -2,6 +2,8 @@
 
 Title: After Unpacking
 
+Title2: Nach dem Auspacken
+
 Description: These videos contain an overview over the basic IP camera features like: LAN or WiFi connectivity and remote access via DDNS and P2P.
 
 Abstract: After Unpacking your Camera
@@ -16,13 +18,13 @@ Sublink2: /Quick_Installation/
 
 Subtitle2: Quick Installation
 
-Sublink3: 
+Sublink3: none
 
-Subtitle3: 
+Subtitle3: none
 
-Sublink4: 
+Sublink4: none
 
-Subtitle4: 
+Subtitle4: none
 
 Tags: Introduction, Quickinstallation
 

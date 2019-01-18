@@ -1,0 +1,63 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: GDATA Internet Security
+
+Title2: GDATA Internet Security
+
+Description: All INSTAR HD cameras can display their video stream inside a modern web browser (like Firefox, Chrome or Edge) without the need for a video plugin. But there are other Options...
+
+Abstract: Access your Camera´s Live Video
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Live_Video/Troubleshooting/GDATA/
+
+Subtitle1: GDATA • 
+
+Sublink2: /Quick_Installation/Live_Video/
+
+Subtitle2: Live Video •
+
+Sublink3: /Quick_Installation/
+
+Subtitle3: Quick Installation
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Live Video, web user interface, QuickTime, Flash, ActiveX, Video Plugin
+
+Image: /images/Search/QI_SearchThumb_LiveVideo_F-Secure.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Live_Video_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+GDATA Internet Security
+
+Set an Exception rule inside your GDATA Antivirus Software. Set an Exception rule inside your GDATA Antivirus Software - Click to watch the Video. It can unfortunately happen that your virus scanner GDATA blocks the video stream of the camera or prevents the ActiveX control or the Quicktime plugin from playing back the stream accordingly. In this case it is necessary to set an exception rule in Kaspersky so as not to block the camera.
+
+Step 1: If GDATA blocks the video stream, the IP address of the camera must be added to the trusted pages.
+
+Step 2: Open the GDATA program by clicking the GDATA icon in the lower right of the taskbar or by selecting the program from the Start menu. Then, in GDATA, click Web Protection.
+
+Step 3: Open the GDATA program by clicking the GDATA icon in the lower right of the taskbar or by selecting the program from the Start menu. Then, in GDATA, click Web Protection.
+
+Step 4: Click New to set a new exception.
+
+Step 5: Enter the IP address of your INSTAR IP camera here.
+
+Step 6: And confirm the input and reload the web interface of the camera.
+
+Finally, restart the web interface of the camera. You can do this by updating the address in the web browser or by closing the web browser, and then entering the IP address again in the web browser
+
+If you have any questions or problems with the settings, you can reach us at any time within our office hours. We will do our best to solve your problems as quickly as possible.
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

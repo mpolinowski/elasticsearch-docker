@@ -1,0 +1,62 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: Live Video
+
+Title2: Nach dem Auspacken
+
+Description: All INSTAR HD cameras can display their video stream inside a modern web browser (like Firefox, Chrome or Edge) without the need for a video plugin. But there are other Options...
+
+Abstract: Access your Camera´s Live Video
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Live_Video/
+
+Subtitle1: Live Video • 
+
+Sublink2: /Quick_Installation/
+
+Subtitle2: Quick Installation
+
+Sublink3: none
+
+Subtitle3: none
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Live Video, web user interface, QuickTime, Flash, ActiveX, video Plugin
+
+Image: /images/Search/QI_SearchThumb_LiveVideo.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Live_Video_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+Display your Cameras Video inside your Browser
+
+Flash Video Plugin
+All INSTAR HD cameras can display their video stream inside a modern web browser (like Firefox, Chrome or Edge) without the need for a video plugin. Just activate the MJPEG mode for this - e.g. in the Multimedia/Video Menu of your 720p Camera or 1080p Camera. But you will lose the h.264 video compression and might start to suffer from bandwidth bottlenecks inside your network. We highly recommend, that you should install the Adobe Flash Video Plugin and use the h.264 video stream instead. This plugin is already installed on most systems and your camera is configured to use it by default - you should be able to see the video stream at once, after loading your cameras web user interface.
+
+Other Options
+If for some reason you cannot use the Flash Video Plugin, there are three more options to display the video stream inside a web browser. You can use the Quick Time Plugin, an ActiveX Plugin (only works with Internet Explorer and Firefox) that comes with a couple of perks or use the above mentioned MJPEG mode to avoid using plugins all together.
+
+ActiveX Video Plugin - Windows video plugin (IE and FF)
+
+QuickTime Plugin - Plugin for Windows and macOS
+
+MJPEG Live-Video - Use this mode in Microsoft Edge
+
+Troubleshooting
+The video plugin might be blocked by your Firewall or Virus scanner. The following articles will explain how to set up your security software to unblock it.
+
+Avast Security, Kaspersky 2013, Kaspersky 2014, Kaspersky 2017, AVG Internet Security, AVIRA Antivirus Pro, F-Secure Security, GDATA Security,
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

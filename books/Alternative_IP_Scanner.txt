@@ -1,0 +1,66 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: Scanner to Find your Camera
+
+Title2: IP Kamera Netzwerksuche
+
+Description: The easiest way to search our camera inside your local network is our INSTAR Camera Tool for Windows, macOS und LINUX.
+
+Abstract: Angry IP Scanner, Fing, Fing Mobile
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Alternative_IP_Scanner/
+
+Subtitle1: IP Scanner • 
+
+Sublink2: /Quick_Installation/
+
+Subtitle2: Quick Installation
+
+Sublink3: none
+
+Subtitle3: none
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Introduction, Quickinstallation, Network
+
+Image: /images/Search/QI_SearchThumb_AlternativeIPScanner_eng.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Alternative_IP_Scanner_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+IP Camera Search Tools
+PoE Powerline Direct LAN IP Scanner
+
+
+INSTAR Camera Tool
+The easiest way to search our camera inside your local network is our INSTAR Camera Tool for Windows, macOS and LINUX.
+
+Accessing your Camera´s SD Card - INSTAR Camera Tool Windows / INSTAR Camera Tool macOS
+
+Alternative IP Scanner
+
+Angry IP Scanner
+Angry IP scanner is a very fast open-source IP address and port scanner. It is available for Windows, macOSX as well as Linux.
+
+Fing CLI
+Fing CLI is an easy-to-use command line tool to keep an eye on your local IP network. The software is available for Windows, macOS and LINUX.
+
+Android Fing IP Scanner
+Angry IP scanner is a very fast open-source IP address and port scanner. It is available for Windows, macOSX as well as Linux.
+
+Assigning a Name
+INSTAR Camera Tool Windows Domain Name
+INSTAR Camera Tool macOS Domain Name
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

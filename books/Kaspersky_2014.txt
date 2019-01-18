@@ -1,0 +1,62 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: Kaspersky Internet Security 2014
+
+Title2: Kaspersky Internet Security 2014
+
+Description: All INSTAR HD cameras can display their video stream inside a modern web browser (like Firefox, Chrome or Edge) without the need for a video plugin. But there are other Options...
+
+Abstract: Access your Camera´s Live Video
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Live_Video/Troubleshooting/Kaspersky_2014/
+
+Subtitle1: Kaspersky 2014 • 
+
+Sublink2: /Quick_Installation/Live_Video/
+
+Subtitle2: Live Video •
+
+Sublink3: /Quick_Installation/
+
+Subtitle3: Quick Installation
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Live Video, web user interface, QuickTime, Flash, ActiveX, Video Plugin
+
+Image: /images/Search/QI_SearchThumb_LiveVideo_Kaspersky14.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Live_Video_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+Kaspersky Internet Security 2014
+
+Set an Exception rule inside your Kaspersky 2014
+In some cases, it can be that the virus scanner Kaspersky is blocking the video stream of the camera. Actually it blocks the ActiveX and Quicktime Plugin from receiving the cameras video stream. In this case you will need to set an exception in Kaspersky so it does not block the camera any more. If your camera´s video does not load, you might have to tell Kaspersky to trust the website...
+
+Step 1: Please open the program Kaspersky by clicking the Kaspersky symbol on the right side of the windows task bar. Another way is to open the start menu and to choose the program directly. Once opened please click Settings.
+
+Step 2: In the window Protection please select the setting Web Anti-Virus.
+
+Step 3: In the Web Anti-Virus settings please click on Advanced Settings.
+
+Step 4: Please click on Configure trusted web pages.
+
+Step 5: In the following window click on Add.
+
+Step 6: Please type in the IP address of your camera. It is very important to set the http:// before and the wildcard /* after the IP address.
+
+Step 7: Finally, please reload the web interface of your IP camera. This can be done by either clicking the refresh button next to the address bar of your web browser or you can close your web browser and type in the IP address of your IP camera again.
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

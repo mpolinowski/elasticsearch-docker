@@ -1,0 +1,77 @@
+** This is a COPYRIGHTED INSTAR Deutschland GmbH article **
+
+Title: User Account Management
+
+Title2: Benutzer Erstellen und Verwalten
+
+Description: In order to access the user menu please click System in the web interface of your IP camera and then choose the sub menu Users as shown below.
+
+Abstract: User Account Management
+
+Author: Mike Polinowski
+
+Sublink1: /Quick_Installation/Creating_User_Accounts/
+
+Subtitle1: After Unpacking • 
+
+Sublink2: /Quick_Installation/
+
+Subtitle2: Quick Installation
+
+Sublink3: none
+
+Subtitle3: none
+
+Sublink4: none
+
+Subtitle4: none
+
+Tags: Introduction, Quickinstallation
+
+Image: /images/Search/QI_SearchThumb_CreatingUserAccounts.png
+
+Imagesquare: /images/Search/TOC_Icons/Wiki_Tiles_QI-Creating_User_Accounts_white.png
+
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ***
+*** START OF THIS ARTICLE ***
+
+
+User Management on your Camera
+
+Secure the Access to your IP Camera
+In order to access the user menu please click System in the web interface of your IP camera and then choose the sub menu Users as shown below. We always recommend that you to set a personal password after setting up your camera. This way you make sure no one can access the video stream besides the people you grand access to. The password should consist of BIG and small letters and numbers. Please make sure the password is not longer than 12 characters in case of the VGA cameras or 30 characters in case of a HD camera. Special characters are possible but please check the characters which are not supported. After submitting the set password will be sent to the camera. After that you can sign back in with your newly created password.
+
+Your camera offers you three different access levels
+Level: Rights
+Admin: This user has all rights and can change all settings.
+User: A user can change settings concerning the cameras image but cannot change relevant system settings.
+Guest: Guest accounts are used for visitors and can simply display the video stream of the camera. You should use a guest login if you plan to embed the camera´s video stream inside a public website.
+1080p Cameras
+
+User Management Overlay for the 1080p Line Cameras. 720p Cameras User Management on your Camera User Management Overlay for the 720p Line Cameras. VGA Cameras User Management on your Camera User Management Menu for the VGA Line Cameras.
+
+Default Logins HD Camera Series
+
+Admin
+Default Username: admin
+Default Password: instar
+
+User
+Default Username: user
+Default Password: instar
+
+Guest
+Default Username: guest
+Default Password: instar
+
+VGA Camera Series
+
+Admin
+Default Username: admin
+Default Password: "blank"
+
+
+*** END OF THIS ARTICLE ***
+*** END OF THIS PROJECT GUTENBERG EBOOK ***

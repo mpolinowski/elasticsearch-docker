@@ -2,6 +2,8 @@
 
 Title: Direct LAN Connection
 
+Title2: Direkte LAN Verbindung
+
 Description: The following instructions will explain to you step by step how you can create a direct LAN connection between your computer and an INSTAR IP camera.
 
 Abstract: Direct Connection between your Computer and your Camera
@@ -16,13 +18,13 @@ Sublink2: /Quick_Installation/
 
 Subtitle2: Quick Installation
 
-Sublink3: 
+Sublink3: none
 
-Subtitle3: 
+Subtitle3: none
 
-Sublink4: 
+Sublink4: none
 
-Subtitle4: 
+Subtitle4: none
 
 Tags: Introduction, Quickinstallation
 
